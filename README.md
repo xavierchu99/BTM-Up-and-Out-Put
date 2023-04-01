@@ -1,4 +1,4 @@
-# Options Pricing MATLAB Code
+# Binomial Tree Methods in Options Pricing
 
 This repository contains MATLAB code for various options pricing models. The following files are included:
 
